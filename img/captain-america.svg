@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1e3a8a"/>
+      <stop offset="1" stop-color="#0b1224"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#g)"/>
+  <circle cx="200" cy="270" r="120" fill="#e5e7eb"/>
+  <circle cx="200" cy="270" r="90" fill="#1e3a8a"/>
+  <path d="M185 190 L200 230 L215 190 L200 205 Z" fill="#e5e7eb"/>
+  <text x="200" y="560" fill="#ffffff" font-family="Arial, sans-serif" font-size="26" text-anchor="middle">CAPTAIN AMERICA</text>
+</svg>

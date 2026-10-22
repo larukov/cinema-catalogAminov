@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#b31217"/>
+      <stop offset="1" stop-color="#2a0505"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#g)"/>
+  <circle cx="200" cy="270" r="110" fill="#ffd700" opacity="0.85"/>
+  <circle cx="200" cy="270" r="70" fill="#8b0000"/>
+  <rect x="150" y="400" width="100" height="120" rx="10" fill="#ffd700" opacity="0.8"/>
+  <text x="200" y="560" fill="#ffffff" font-family="Arial, sans-serif" font-size="30" text-anchor="middle">IRON MAN</text>
+</svg>
